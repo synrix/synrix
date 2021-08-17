@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @synrix
+- 🌱 I’m currently learning C#/C++
